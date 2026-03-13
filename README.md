@@ -3,12 +3,6 @@ Soy estudiante de Ciencias Computacionales en la Facultad de Ciencias Físico Ma
 Tengo experiencia en desarrollo web con HTML, CSS, JavaScript, Sass, Node.js, PHP y MySQL, además de conocimientos en Python, práctica en Java, y bases en C y C++.
 Me interesa integrar el desarrollo con prácticas de DevOps y tecnologías como Docker, Azure, AWS y servidores Linux para crecer hacia un perfil híbrido en la industria tecnológica.<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DiegoMurillo) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diegomuig@outlook.com)
-
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvgSleepEnjoyer&langs_count=8&size_weight=2&layout=compact)
 
 # 💻 Tech Stack:
