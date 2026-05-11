@@ -9,9 +9,10 @@ Me interesa integrar el desarrollo con prácticas de DevOps y tecnologías como 
 
 
 
-
+<a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
+<img src="https://github.com/AvgSleepEnjoyer/github-stats/blob/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
 <img src="https://github.com/AvgSleepEnjoyer/github-stats/blob/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-
+</a>
 
 </div>
 
