@@ -3,7 +3,7 @@ Soy estudiante de Ciencias Computacionales en la Facultad de Ciencias Físico Ma
 Tengo experiencia en desarrollo web con HTML, CSS, JavaScript, Sass, Node.js, PHP y MySQL, además de conocimientos en Python, práctica en Java, y bases en C y C++.
 Me interesa integrar el desarrollo con prácticas de DevOps y tecnologías como Docker, Azure, AWS y servidores Linux para crecer hacia un perfil híbrido en la industria tecnológica.<br>
 
-
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AvgSleepEnjoyer&layout=compact)
 
 
 # 💻 Tech Stack:
