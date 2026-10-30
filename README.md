@@ -5,7 +5,7 @@ Me interesa integrar el desarrollo con prácticas de DevOps y tecnologías como 
 
 <p align="center">
   <a href="https://github.com/AvgSleepEnjoyer/github-readme-stats">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AvgSleepEnjoyer&layout=pie" alt="Top Langs">
+    <img src="[https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AvgSleepEnjoyer&layout=pie" alt="Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=AvgSleepEnjoyer&layout=pie&langs_count=6&theme=dark_github)">
   </a>
 </p>
 
