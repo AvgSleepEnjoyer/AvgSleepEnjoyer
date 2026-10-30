@@ -5,10 +5,12 @@ Me interesa integrar el desarrollo con prácticas de DevOps y tecnologías como 
 
 <p align="center">
   <picture>
-    <source
+    
+  <source
   srcset="https://github-stats-extended.vercel.app/api/top-langs?username=AvgSleepEnjoyer&layout=pie&langs_count=6&theme=dark_github"
   />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AvgSleepEnjoyer&layout=pie&langs_count=6&theme=dark_github" alt="GitHub stats" />
+  
   </picture>
   
 </p>
