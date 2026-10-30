@@ -4,9 +4,9 @@ Tengo experiencia en desarrollo web con HTML, CSS, JavaScript, Sass, Node.js, PH
 Me interesa integrar el desarrollo con prácticas de DevOps y tecnologías como Docker, Azure, AWS y servidores Linux para crecer hacia un perfil híbrido en la industria tecnológica.<br>
 
 <p align="center">
-  <a href="https://github.com/AvgSleepEnjoyer/github-readme-stats">
+  [<a href="https://github.com/AvgSleepEnjoyer/github-readme-stats">
     <img src="[https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AvgSleepEnjoyer&layout=pie" alt="Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=AvgSleepEnjoyer&layout=pie&langs_count=6&theme=dark_github)">
-  </a>
+  </a>](https://github-stats-extended.vercel.app/api/top-langs?username=AvgSleepEnjoyer&layout=pie&langs_count=6&theme=dark_github)
 </p>
 
 
